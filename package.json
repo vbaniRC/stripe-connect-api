@@ -1,0 +1,10 @@
+{
+  "name": "stripe-connect-api",
+  "version": "1.0.0",
+  "description": "Stripe Connect backend for VBA invoicing system",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
